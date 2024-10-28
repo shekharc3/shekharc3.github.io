@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my my website"
+title: "Welcome to my academic webpage"
 author_profile: true
 redirect_from: 
   - /about/
