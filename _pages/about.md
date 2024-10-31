@@ -11,7 +11,7 @@ My name is Chandra Shekhar, and I am an Assistant Professor of Environmental Eth
 
 My Research Interests
 ======
-My research interests lie in the political economy of governance, environmental policy, environmental ethics, and social theory. I investigate how environmental degradation affects socially vulnerable peoples in North America, Africa, and Asia, by reinforcing the social contract that supports dominant groups and systematically marginalizes minority groups. <br> 
+My research interests lie in the political economy of governance, environmental sociology, social policy, philosophy of the environment, and social theory. I investigate how environmental degradation affects socially vulnerable peoples in North America, Africa, and Asia, by reinforcing the social contract that supports dominant groups and systematically marginalizes minority groups. <br> 
 
 I am committed to addressing environmental and climate injustice and equity and social justice more broadly, crucially for vulnerable groups, including low-income people of color and Indigenous populations. My commitment stems from strong training in social and political theory; philosophies of environment, gender, and power; and a community-focused collaborative environmental justice research agenda that methodologically builds on epistemological and ontological pluralism. 
 
