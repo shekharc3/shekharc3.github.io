@@ -17,4 +17,4 @@ I am committed to addressing environmental and climate injustice and equity and 
 
 My Academic Background
 ======
-I completed my Ph.D. in Public Policy and Environmental Philosophy at the Massachusetts Institute of Technology in September 2022. From 2022 to 2024, I was a postdoctoral fellow in the Department of Social Policy at the London School of Economics and Political Science. Additionally, in 2023-24, I was an affiliate of the Weatherhead Research Cluster on Comparative Inequality & Inclusion at Harvard University.
+I completed my Ph.D. in Public Policy and Environmental Philosophy at the Massachusetts Institute of Technology (MIT) in September 2022. From 2022 to 2024, I was a postdoctoral fellow in the Department of Social Policy at the London School of Economics and Political Science. Additionally, in 2023-24, I was an affiliate of the Weatherhead Research Cluster on Comparative Inequality & Inclusion at Harvard University.
