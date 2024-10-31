@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Public Policy and Environmental Philosophy, Massachusetts Institute of Technology, 2022 
+* M.S. Earth and Atmospheric Sciences (and minor in Public Policy), Geogria Institute of Technology, 2010
+* M.S. Mechanical Sciences (Faculty of Engineering), Indian Institute of Science, Bangalore, India, 2007
+* B.S. Mechanical Engineering, G.B. Pant University, Uttaranchal, India, 2002
 
 Work experience
 ======
