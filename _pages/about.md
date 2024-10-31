@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 My name is Chandra Shekhar, and I am an Assistant Professor of Environmental Ethics in the Department of Geography and Environmental Sustainability at the University of Oklahoma. 
+
 <span style="color:blue">This text is blue.</span>
+
 My Research Interests
 ======
 My research interests lie in the political economy of governance, environmental sociology, social policy, philosophy of the environment, and social theory. I investigate how environmental degradation affects socially vulnerable peoples in North America, Africa, and Asia, by reinforcing the social contract that supports dominant groups and systematically marginalizes minority groups. <br> 
