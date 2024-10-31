@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic webpage"
+title: "Welcome to My Academic Webpage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,4 @@ My research interests lie in the political economy of governance, environmental 
 
 My Academic Background
 ======
-Ph.D., Public Policy and Environmental Philosophy, Massachusetts Institute of Technology (MIT), 2022 <br>
-M.S., Georgia Institute of Technology, Atlanta, GA, 2010 <br>
-M.S., Indian Institute of Science, Bangalore, 2007 <br>
-B.Tech., G.B. Pant University, Pantnagar, Uttaranchal, India, 2002
+I completed my Ph.D. in Public Policy and Environmental Philosophy at the Massachusetts Institute of Technology in September 2022. From 2022 to 2024, I was a postdoctoral fellow in the Department of Social Policy at the London School of Economics and Political Science. Additionally, in 2023-24, I was an affiliate of the Weatherhead Research Cluster on Comparative Inequality & Inclusion at Harvard University.
