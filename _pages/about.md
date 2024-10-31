@@ -11,7 +11,7 @@ My name is Chandra Shekhar, and I am an Assistant Professor of Environmental Eth
 
 My Academic Background
 ======
-Ph.D. Massachusetts Institute of Technology (MIT), 2022 <br>
-M.S. Georgia Institute of Technology, Atlanta, GA, 2010 <br>
-Indian Institute of Science, Bangalore, 2007 <br>
-G.B. Pant University, Pantnagar, Uttaranchal, India, 2002
+Ph.D., Massachusetts Institute of Technology (MIT), 2022 <br>
+M.S., Georgia Institute of Technology, Atlanta, GA, 2010 <br>
+M.S., Indian Institute of Science, Bangalore, 2007 <br>
+B.Tech., G.B. Pant University, Pantnagar, Uttaranchal, India, 2002
