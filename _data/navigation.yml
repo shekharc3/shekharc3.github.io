@@ -12,10 +12,10 @@ main:
   - title: "Teaching"
     url: /teaching/   
 
-    - title: "CV"
+  - title: "CV"
     url: /cv/
 
-  #   - title: "Talks"
+#   - title: "Talks"
  #   url: /talks/    
 
  # - title: "Portfolio"
