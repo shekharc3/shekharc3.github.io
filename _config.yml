@@ -27,10 +27,10 @@ author:
   bio              : "Assistant Professor"
   location         : "Norman"
   employer         : "University of Oklahoma"
-  uri              : # URL
+  uri              : https://www.ou.edu/
   email            : "shekharc@ou.edu" 
-  linkedin         : # Username
-  twitter          : # Username for X / Twitter
+  linkedin         :  https://www.linkedin.com/in/chandra-shekhar-301b48128/
+  twitter          : ausonius22
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=ms2UEhgAAAAJ&hl=en"
   
