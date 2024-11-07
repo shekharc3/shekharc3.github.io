@@ -11,17 +11,17 @@ main:
   - title: "CV"
     url: /cv/
 
-      - title: "Teaching"
+    - title: "Teaching"
     url: /teaching/    
 
- - title: "Blog Posts"
-    url: /year-archive/
+# - title: "Blog Posts"
+#    url: /year-archive/
     
-    - title: "Portfolio"
-    url: /portfolio/
+#    - title: "Portfolio"
+#    url: /portfolio/
     
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+  #  url: /talks/    
 
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
