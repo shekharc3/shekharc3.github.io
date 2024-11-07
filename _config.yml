@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-#title                    : "Shekhar's homepage"
+title                    : "Shekhar's homepage"
 title_separator          : "-"
 name                     : &name "Chandra Shekhar"
 description              : &description "Assistant Professor"
