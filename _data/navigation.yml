@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/   
+  - title: "Research"
+    url: /research/   
 
   - title: "CV"
     url: /files/shekharc.pdf
 
- #   - title: "Talks"
- #   url: /talks/    
+    - title: "Teaching"
+    url: /Teaching/    
 
  # - title: "Portfolio"
  #   url: /portfolio/
