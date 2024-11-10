@@ -15,7 +15,7 @@ When I’m not doing research, I love staying active and spending time outdoors.
 Research
 ===
 
-My research examines the political economy of development, social policy, environmental philosophy, and social theory. I investigate how environmental degradation impacts socially vulnerable populations in North America, Africa, and Asia, reinforcing social contracts that benefit dominant groups while systematically marginalizing minority groups. I also explore the persistence of inefficient institutions, such as corruption in government organizations. Additionally, I focus on the philosophy of power and the philosophy of knowledge, using a methodological approach grounded in epistemological and ontological pluralism. <br>
+My research examines the political economy of development and institutional change, social policy, environmental philosophy, and social theory. I investigate how environmental degradation impacts socially vulnerable populations in North America, Africa, and Asia, reinforcing social contracts that benefit dominant groups while systematically marginalizing minority groups. I also study the persistence of inefficient and unjust institutions, such as corruption in government organizations, in the Global North and the Global South. Additionally, I focus on the philosophy of power and the philosophy of knowledge, using a methodological approach grounded in epistemological and ontological pluralism. <br>
 
 Publications in Progress
 ===
