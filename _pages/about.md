@@ -25,7 +25,7 @@ Using extensive fieldwork in three of India’s major state bureaucracies and bu
 
 Manuscript in Preparation
 ===
-▪ Identifying the demands of justice in Indigenous groups facing environmental risks: The case of a climate change-induced forced migration of a Native American community in Louisiana. <small> Manuscript in preparation. (With Janelle Knox-Hayes) <small> <br>
+▪ Identifying the demands of justice in Indigenous groups facing environmental risks: The case of a climate change-induced forced migration of a Native American community in Louisiana. <small> Manuscript in preparation. (With Janelle Knox-Hayes[Janelle Knox-Hayes](https://dusp.mit.edu/janelle-knox-hayes)) <small> <br>
 
 Abstract <br>
 
