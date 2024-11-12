@@ -25,7 +25,7 @@ Using extensive fieldwork in three of India’s major state bureaucracies and bu
 
 Manuscript in Preparation
 ===
-▪ Identifying the demands of justice in Indigenous groups facing environmental risks: The case of a climate change-induced forced migration of a Native American community in Louisiana. <small> (With [Janelle Knox-Hayes](https://dusp.mit.edu/janelle-knox-hayes)) <small> <br>
+▪ Identifying the demands of justice in Indigenous groups facing environmental risks: The case of a climate change-induced forced migration of a Native American community in Louisiana. (With [Janelle Knox-Hayes](https://dusp.mit.edu/janelle-knox-hayes)) <br>
 
 Abstract <br>
 
@@ -46,7 +46,7 @@ Abstract <br>
 
 There are two major challenges in conceptualizing global justice. First, most theories of justice are based on some form of a social contract, which limits their applicability outside the sovereign boundaries of a state. These social contract-based theories need a Leviathan to enforce required rules, and we do not have a world government to play such a role. A difficulty that has engaged some authors is the contrast between the standard treatments of social choice for a sovereign nation (Arrow’s pioneering work does not depart from that basic model) and the essential demand for a multi-nation perspective for a reasonable treatment of global justice. Second, understanding the demands of liberty in the global context poses dilemmas. This paper introduces a possible new approach to global justice. 
 
-▪ A Phenomenological Examination of Discrimination Against Women. <small> (With [Sally Haslanger](https://philosophy.mit.edu/shaslanger)) <small>
+▪ A Phenomenological Examination of Discrimination Against Women. (With [Sally Haslanger](https://philosophy.mit.edu/shaslanger)) 
 
 Abstract <br>
 
