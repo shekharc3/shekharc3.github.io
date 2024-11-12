@@ -38,8 +38,6 @@ Abstract <br>
 
 I examine the nature of linkages between grand corruption of senior officials and petty corruption of street officials in an Indian state police bureaucracy. Using a randomized response survey of 154 serving police officials, in-depth semi-structured interviews of an additional 58 police officials, and an ethnography of street vendors at an informal marketplace, I find evidence that these linkages are mutually reinforcing and that they are organized around the market for corruption in bureaucratic transfers. The mutually reinforcing nature of these linkages helps us understand long-standing questions about the existence and persistence of corruption in government bureaucracies and why anti-corruption reforms are difficult to implement. <br>
 
-Keywords: Bureaucracy, Corruption, Police 
-
 ▪ A Social Choice-based Approach to Global Justice
 
 Abstract <br>
