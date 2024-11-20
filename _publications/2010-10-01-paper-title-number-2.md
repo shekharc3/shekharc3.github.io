@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 #excerpt: 'The role of values in shaping sustainable development perspectives and outcomes: A case study of Iceland.'
 date: 2010-10-01
-venue: 'Journal 1'
+venue: 'Sustainable Development'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/article1.pdf'
 citation: 'Knox‐Hayes J, Chandra S, Chun J. The role of values in shaping sustainable development perspectives and outcomes: A case study of Iceland. Sustainable Development.
