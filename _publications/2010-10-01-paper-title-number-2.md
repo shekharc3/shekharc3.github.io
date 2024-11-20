@@ -3,7 +3,7 @@ title: "The role of values in shaping sustainable development perspectives and o
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'The role of values in shaping sustainable development perspectives and outcomes: A case study of Iceland.'
+#excerpt: 'The role of values in shaping sustainable development perspectives and outcomes: A case study of Iceland.'
 date: 2010-10-01
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
