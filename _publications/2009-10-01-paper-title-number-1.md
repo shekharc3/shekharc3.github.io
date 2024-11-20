@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "The geographies, typologies, and trends of community-based organizations for solar energy in the United States."
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
