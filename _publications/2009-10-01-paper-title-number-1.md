@@ -7,7 +7,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-12-01
 venue: 'Energy Research & Social Science'
 #slidesurl: 'http://academicpages.github.io/files/ERSC.pdf'
-paperurl: 'http://academicpages.github.io/files/ERSC.pdf'
+paperurl: 'http://shekharc3/shekharc3.github.io/files/ERSC.pdf'
 citation: 'Knox-Hayes J, Chandra S, Chun J, Gowda S, Karmakar I, Winer R. The geographies, typologies, and trends of community-based organizations for solar energy in the United States. Energy Research & Social Science. 2023 December; 106:103311-. Available from: https://linkinghub.elsevier.com/retrieve/pii/S2214629623003717 DOI: 10.1016/j.erss.2023.103311'
 ---
 
