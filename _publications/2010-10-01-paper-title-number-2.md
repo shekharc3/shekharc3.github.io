@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "The role of values in shaping sustainable development perspectives and outcomes: A case study of Iceland"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
