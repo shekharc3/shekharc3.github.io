@@ -1,7 +1,7 @@
 ---
 title: "The geographies, typologies, and trends of community-based organizations for solar energy in the United States."
-#collection: publications
-#category: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-12-01
