@@ -1,6 +1,6 @@
 ### Teaching
 
-- **[Course Title](link-to-course-material-or-syllabus)**  
+- **[Research Methods in Social Policy]**  
   Semester: *Fall 2024*  
   Institution: *University Name*  
   Description: A brief description of the course content, objectives, or key topics covered.
