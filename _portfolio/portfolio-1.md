@@ -1,8 +1,11 @@
----
-title: "Reesearch Methods"
-#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-#collection: portfolio
+### Teaching
 
----
+- **[Course Title](link-to-course-material-or-syllabus)**  
+  Semester: *Fall 2024*  
+  Institution: *University Name*  
+  Description: A brief description of the course content, objectives, or key topics covered.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- **GEOG 3233: Sustainability and Ethics**  
+  Semester: *Fall 2024*  
+  Institution: *University of Oklahoma*  
+  Description: This course explores ethical dimensions of sustainability, focusing on environmental justice, resource management, and global development.
