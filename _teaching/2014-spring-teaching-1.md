@@ -10,11 +10,11 @@ location: "London, United Kingdom"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Research Methods
 ======
 
-Heading 2
+Social (dis)advantages
 ======
 
-Heading 3
+Research Methods
 ======
