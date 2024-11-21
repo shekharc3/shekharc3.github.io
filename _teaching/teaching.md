@@ -1,9 +1,12 @@
----
-title: "The geographies, typologies, and trends of community-based organizations for solar energy in the United States."
-collection: publications
-category: manuscripts
-date: 2023-12-01
-venue: 'Energy Research & Social Science'
-paperurl: 'http://shekharc3.github.io/files/ERSC.pdf' 
-citation: 'Knox-Hayes J, Chandra S, Chun J, Gowda S, Karmakar I, Winer R. The geographies, typologies, and trends of community-based organizations for solar energy in the United States. Energy Research & Social Science. 2023 December; 106:103311.'
----
+## Teaching
+
+### GEOG 3233: Sustainability and Ethics  
+Semester: *Fall 2024*  
+Institution: *University of Oklahoma*  
+Description: This course explores ethical dimensions of sustainability, focusing on environmental justice, resource management, and global development.
+
+### GEOG 6953: Environmental Justice  
+Semester: *Spring 2025*  
+Institution: *University of Oklahoma*  
+Description: Examines the intersections of justice, equity, and environmental policy, with a focus on marginalized communities.
+
