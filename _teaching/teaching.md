@@ -1,6 +1,6 @@
 ## Teaching
 
-### GEOG 3233: Sustainability and Ethics  
+### GEOG 3233: Principles of Sustainability  
 Semester: *Fall 2024*  
 Institution: *University of Oklahoma*  
 Description: This course explores ethical dimensions of sustainability, focusing on environmental justice, resource management, and global development.
