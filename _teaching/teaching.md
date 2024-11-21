@@ -1,4 +1,4 @@
-## Teaching
+## Teaching **
 
 ### GEOG 3233: Principles of Sustainability  
 Semester: *Fall 2024*  
