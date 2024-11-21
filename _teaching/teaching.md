@@ -10,3 +10,10 @@ Semester: *Spring 2025*
 Institution: *University of Oklahoma*  
 Description: Examines the intersections of justice, equity, and environmental policy, with a focus on marginalized communities.
 
+---
+title: "GEOG 3233: Principles of Sustainability"
+collection: publications
+category: manuscripts
+date: 2023-12-01
+venue: 'Energy Research & Social Science'
+---
