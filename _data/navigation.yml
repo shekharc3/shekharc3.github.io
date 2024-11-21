@@ -12,11 +12,11 @@ main:
   - title: "CV"
     url: /files/shekharc.pdf
 
- # - title: "Teaching"
- #   url: /Teaching/    
-
   - title: "Teaching"
-    url: /portfolio/
+    url: /Teaching/    
+
+ # - title: "Teaching"
+ #  url: /portfolio/
         
  #  - title: "Blog Posts"
  #   url: /year-archive/
