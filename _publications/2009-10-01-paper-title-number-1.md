@@ -2,7 +2,7 @@
 title: "The geographies, typologies, and trends of community-based organizations for solar energy in the United States. [https://www.sciencedirect.com/science/article/pii/S2214629623003717?via%3Dihub]"
 collection: publications
 category: manuscripts
-permalink: /files/ERSC.pdf
+#permalink: /files/ERSC.pdf
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-12-01
 venue: 'Energy Research & Social Science'
