@@ -1,5 +1,5 @@
 ---
-title: ["The geographies, typologies, and trends of community-based organizations for solar energy in the United States."] (https://www.sciencedirect.com/science/article/pii/S2214629623003717?via%3Dihub)
+title: "The geographies, typologies, and trends of community-based organizations for solar energy in the United States."
 collection: publications
 category: manuscripts
 #permalink: /files/ERSC.pdf
