@@ -1,4 +1,4 @@
-## Teaching **
+## Teachings 
 
 GEOG 3233: Principles of Sustainability 
 --
