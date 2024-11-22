@@ -8,8 +8,6 @@ date: 2023-09-16
 location: "London, United Kingdom"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
-
 <small> 1. Research Methods (Undergraduate Course) with Dr. Shuang Chen <small>
 ======
 
