@@ -10,12 +10,11 @@ location: "London, United Kingdom"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Research Methods (Undergraduate Course with Dr. Shuang Chen)
+<small> 1. Research Methods (Undergraduate Course) with Dr. Shuang Chen <small>
 ======
 
-Social (dis)advantages
+<small> 3. Research Methods (Graduate Course) with Dr. Johann Koehler
 ======
 
-Research Methods (Graduate Course with Dr. Johann Koehler)
+<small> 3. Social (dis)advantages <small>
 ======
-
