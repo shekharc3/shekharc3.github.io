@@ -7,4 +7,4 @@ venue: "London School of Economics and Political Science (LSE), Department of So
 date: 2023-09-16
 location: "London, United Kingdom"
 ---
-This a year-long methods course for undergraduate students to train them in qualitative and quantitative research methods. I taught this course with [Dr. Shuang Chen](https://www.lse.ac.uk/social-policy/people/academic-staff/dr-shuang-chen)
+This a year-long methods course for undergraduate students to train them in qualitative and quantitative research methods. I taught this course with [Dr. Shuang Chen](https://www.lse.ac.uk/social-policy/people/academic-staff/dr-shuang-chen).
