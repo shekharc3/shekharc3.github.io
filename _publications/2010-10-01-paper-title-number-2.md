@@ -1,5 +1,5 @@
 ---
-title: "The role of values in shaping sustainable development perspectives and outcomes: A case study of Iceland"
+title: "[The role of values in shaping sustainable development perspectives and outcomes: A case study of Iceland](https://onlinelibrary.wiley.com/doi/abs/10.1002/sd.2152)"
 collection: publications
 category: manuscripts
 #permalink: /publication/2010-10-01-paper-title-number-2
