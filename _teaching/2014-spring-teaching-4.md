@@ -1,10 +1,10 @@
 ---
-title: "Research Methods in Social Policy"
+title: "Environmental Policy"
 # collection: Undergraduate Course
-type: "Undergraduate course"
+type: "Graduate course"
 #permalink: /teaching/2014-spring-teaching-1
-venue: "London School of Economics and Political Science (LSE), Department of Social Policy"
-date: 2023-09-16
-location: "London, United Kingdom"
+venue: "Massachusetts Institute of Technology"
+date: 2021-09-16
+location: "Cambridge,Massachusetts"
 ---
-This a year-long methods course for undergraduate students to train them in qualitative and quantitative research methods. I taught this course with [Dr. Shuang Chen](https://www.lse.ac.uk/social-policy/people/academic-staff/dr-shuang-chen)
+This course attracts graduate students and advanced undergraduates from MIT and Harvard departments with interests in environmental justice, environmental ethics, analytical tools for environmental assessment, and strategies for collaborative decision-making. I served as the Teaching Assistant to Professor [Larry Susskind](https://lawrencesusskind.mit.edu/) for this course. 
