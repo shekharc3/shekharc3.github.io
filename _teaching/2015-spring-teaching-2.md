@@ -1,6 +1,6 @@
 ---
 title: "Principles of Sustainbility"
-collection: teaching
+#collection: teaching
 type: "Undergraduate Course"
 #permalink: /teaching/2015-spring-teaching-1
 venue: "University of Oklahoma"
