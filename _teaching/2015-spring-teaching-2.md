@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Principles of Sustainbility"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+#type: "Workshop"
+#permalink: /teaching/2015-spring-teaching-1
+venue: "University of Oklahoma"
+date: 2024-09-01
+location: "Norman, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduces and critiques sustainability principles through the lens of human development. It explores the social, economic, and environmental dimensions of sustainability, providing a comprehensive examination of ethical theories and their application to sustainability principles.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
