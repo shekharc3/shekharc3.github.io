@@ -8,5 +8,4 @@ date: 2024-09-01
 location: "Norman, United States"
 ---
 
-This course introduces and critiques sustainability principles through the lens of human development. It explores the social, economic, and environmental dimensions of sustainability, providing a comprehensive examination of ethical theories and their application to sustainability principles.
-
+This course critically examines sustainability principles through the lens of human development, emphasizing their social, economic, and environmental dimensions. In addition, the course offers a nuanced exploration of ethical theories and their practical application to sustainability, fostering a deeper understanding of the challenges and opportunities in advancing sustainable development.
