@@ -31,7 +31,6 @@ Abstract <br>
 
 What are the demands of justice when Indigenous communities suffer serious environmental harms? We analyze environmental injustices in the climate change-induced forced migration of a Native American community of southeastern Louisiana in the United States. The article uses archival analysis, the lived experiences of the community members (including its Chief), and in-depth interviews of government stakeholders involved in the planning process led by the Department of Housing and Urban Development to safely relocate the Native members. The paper contends that rather than merely focusing on the fair distribution of environmental risks and benefits, the pursuit of justice should also be process-sensitive; meaningfully involve the risk-facing community; and respect its values, cultures, histories, traditions, knowledge systems, and sovereignty concerns. We argue that as the world confronts the reality of anthropogenic climate change, we must move beyond distributional equity to focus more on recognition claims of Indigenous peoples in order to design more equitable resilience policies. 
 
-
 ▪ A Sociology of Corruption in Governments: Persistence in Spite of Efforts to End It
 
 Abstract <br>
