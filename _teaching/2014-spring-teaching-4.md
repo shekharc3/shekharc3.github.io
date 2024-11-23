@@ -1,5 +1,5 @@
 ---
-title: "Environmental Policy"
+title: "Introduction to Environmental Policy"
 # collection: Undergraduate Course
 type: "Graduate course"
 #permalink: /teaching/2014-spring-teaching-1
