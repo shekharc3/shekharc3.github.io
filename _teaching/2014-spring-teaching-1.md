@@ -1,8 +1,9 @@
 ---
-title: "Research Methods in Social Policy"
-collection: teaching
+title: "Understanding Social Policy Research"
+# collection: Undergraduate Course
+type: "Graduate course"
 #permalink: /teaching/2014-spring-teaching-1
-venue: "Department of Social Policy, London School of Economics and Political Science (LSE)"
+venue: "London School of Economics and Political Science (LSE), Department of Social Policy"
 date: 2023-09-16
 location: "London, United Kingdom"
 ---
