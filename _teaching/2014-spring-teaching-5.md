@@ -7,5 +7,5 @@ venue: "Massachusetts Institute of Technology (MIT)"
 date: 2021-09-16 and 2022-09-16
 location: "London, United Kingdom"
 ---
-I was Teaching Assistant to [Noelle Selin](https://idss.mit.edu/staff/noelle-selin/) and [Kenneth Oye](https://polisci.mit.edu/people/kenneth-oye) in this course.
+I was Teaching Assistant to Professors [Noelle Selin](https://idss.mit.edu/staff/noelle-selin/) and [Kenneth Oye](https://polisci.mit.edu/people/kenneth-oye) in this course.
 
