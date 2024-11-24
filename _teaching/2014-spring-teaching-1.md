@@ -8,4 +8,4 @@ date: 2023-09-16
 location: "London, United Kingdom"
 ---
 
-This a year-long methods course for undergraduate students to train them in qualitative and quantitative research methods. I taught this course with [Dr. Johann Koehler](https://www.lse.ac.uk/social-policy/people/academic-staff/Dr-Johann-Koehler)
+This course was convened by [Dr. Johann Koehler](https://www.lse.ac.uk/social-policy/people/academic-staff/Dr-Johann-Koehler), and I delivered two lectures: one on using qualitative research and addressing missing data issues in international social and public policy research, and another on theorizing policy processes.
