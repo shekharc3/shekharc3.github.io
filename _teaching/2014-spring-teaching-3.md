@@ -1,5 +1,5 @@
 ---
-title: "Research Methods in Social Policy"
+title: "Research Methods for Social Policy"
 # collection: Undergraduate Course
 type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
