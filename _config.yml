@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shekhar.png"
+  avatar           : "github.png"
   name             : "Chandra Shekhar"
   pronouns         : # example: "They/Them"  
   bio              : "Assistant Professor"
