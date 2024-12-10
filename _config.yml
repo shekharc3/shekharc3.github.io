@@ -23,14 +23,14 @@ author:
   # Biographic information
   avatar           : "github.png"
   name             : "Chandra Shekhar"
-  pronouns         : # example: "They/Them"  
+  pronouns         : "They/Them"  
   bio              : "Assistant Professor"
   location         : "Norman"
   employer         : "University of Oklahoma"
   uri              : https://www.ou.edu/
   email            : "shekharc@ou.edu" 
-  linkedin         : https://www.linkedin.com/in/chandra-shekhar-301b48128/
-  twitter          : ausonius22
+  linkedin         : "https://www.linkedin.com/in/chandra-shekhar-301b48128/"
+  twitter          : "ausonius22"
   
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=ms2UEhgAAAAJ&hl=en"
