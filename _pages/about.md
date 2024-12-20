@@ -19,7 +19,7 @@ My research examines the political economy of development and institutional chan
 
 Publications in Progress
 ===
-▪ The Logic of Corruption in Government Bureaucracies. (Book project based on my dissertation). Under contract with [Cambridge University Press] (https://www.cambridge.org/). (Scheduled for publication in May 2025). <br>
+▪ The Logic of Corruption in Government Bureaucracies. (Book project based on my dissertation). Under contract with [Cambridge University Press](https://www.cambridge.org/). (Scheduled for publication in May 2025). <br>
 
 Using extensive fieldwork in three of India’s major state bureaucracies and building on innovative strategies to measure corruption, this book sheds light on the long-standing puzzle of why corruption exists and persists in government bureaucracies. I argue that corruption in governments could be exclusively and exhaustively conceptualized as grand and petty corruption and that the former causes the latter. I show that these two kinds of corruption are organized around bureaucratic transfers and that corrupt exchanges at various levels are thickly embedded in their ongoing social and political relations. The stability of the linkages between grand and petty corruption explain why corruption persists. <br>
 
