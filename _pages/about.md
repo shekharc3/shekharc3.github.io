@@ -23,7 +23,7 @@ Publications in Progress
 
 Using extensive fieldwork in three of India’s major state bureaucracies and building on innovative strategies to measure corruption, this book sheds light on the long-standing puzzle of why corruption exists and persists in government bureaucracies. I argue that corruption in governments could be exclusively and exhaustively conceptualized as grand and petty corruption and that the former causes the latter. I show that these two kinds of corruption are organized around bureaucratic transfers and that corrupt exchanges at various levels are thickly embedded in their ongoing social and political relations. <br>
 
-Manuscript in Preparation
+Manuscripts in Preparation
 ===
 ▪ Identifying the demands of justice in Indigenous groups facing environmental risks: The case of a climate change-induced forced migration of a Native American community in Louisiana. (With [Janelle Knox-Hayes](https://dusp.mit.edu/people/janelle-knox-hayes)) <br>
 
