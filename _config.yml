@@ -323,3 +323,17 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+# Custom CSS for larger profile image
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Custom styles
+custom_css: |
+  .profile img, .profile-img, img[src*="chandra"] {
+    width: 400px !important;
+    height: 400px !important;
+    max-width: 400px !important;
+    border-radius: 15px !important;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3) !important;
+  }
