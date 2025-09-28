@@ -1,7 +1,51 @@
+scss---
+---
+
+@import "{{ site.theme }}";
+
 body {
     font-size: 14px; /* Change this to adjust base font size */
+    color: #333333; /* Makes text darker */
 }
 
 .small-text {
     font-size: 50%;
+}
+
+// Make all text darker
+h1, h2, h3, h4, h5, h6 {
+  color: #222222;
+}
+
+p, li, span {
+  color: #444444;
+}
+
+// Style for your profile photo
+.profile-photo {
+  width: 250px;
+  height: 250px;
+  border-radius: 15px;
+  object-fit: cover;
+  margin: 20px 0;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+// Alternative larger photo style
+.large-profile-photo {
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+  object-fit: cover;
+  margin: 20px 0;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+// Make links darker too
+a {
+  color: #0066cc;
+}
+
+a:hover {
+  color: #004499;
 }
