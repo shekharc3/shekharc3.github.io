@@ -8,6 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: center; margin: 30px 0;">
+<img src="/assets/img/chandra.png" style="width: 400px; height: 400px; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); object-fit: cover;" alt="Chandra Shekhar">
+</div>
+
 Welcome to my website! My name is Chandra Shekhar, and I am an Assistant Professor at the University of Oklahoma. Before coming to OU in August 2024, I completed my PhD in Public Policy and Environmental Philosophy at the Massachusetts Institute of Technology (MIT) in 2022, followed by a postdoctoral fellowship in the Department of Social Policy at the [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk/social-policy). My work has been supported by the [MIT Martin Family Society of Fellows](https://martin-fellows.mit.edu/fellows/current-fellows/), the [MIT Science Impact Initiative](https://scienceimpact.mit.edu/view/biblio/student_contributors_doctoral), and the MIT Presidential Fellowship. <br>
 
 When I’m not doing research, I love staying active and spending time outdoors. I also enjoy reading novels, playing the trombone, and jet-skiing.
