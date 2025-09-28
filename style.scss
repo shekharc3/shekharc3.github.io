@@ -1,24 +1,26 @@
-scss---
+---
 ---
 
 @import "{{ site.theme }}";
 
 body {
-    font-size: 14px; /* Change this to adjust base font size */
-    color: #333333; /* Makes text darker */
+    font-size: 14px;
+    color: #000000 !important; /* Pure black text */
 }
 
 .small-text {
     font-size: 50%;
+    color: #000000 !important; /* Make small text black too */
 }
 
-// Make all text darker
+// Make all headings pure black
 h1, h2, h3, h4, h5, h6 {
-  color: #222222;
+  color: #000000 !important;
 }
 
-p, li, span {
-  color: #444444;
+// Make all paragraph and list text black
+p, li, span, div {
+  color: #000000 !important;
 }
 
 // Style for your profile photo
@@ -31,21 +33,16 @@ p, li, span {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
-// Alternative larger photo style
-.large-profile-photo {
-  width: 300px;
-  height: 300px;
-  border-radius: 15px;
-  object-fit: cover;
-  margin: 20px 0;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-
-// Make links darker too
+// Make links dark blue but still distinguishable
 a {
-  color: #0066cc;
+  color: #0000EE !important; /* Standard blue for links */
 }
 
 a:hover {
-  color: #004499;
+  color: #000080 !important; /* Darker blue on hover */
+}
+
+// Ensure code blocks and other elements are also dark
+code, pre {
+  color: #000000 !important;
 }
