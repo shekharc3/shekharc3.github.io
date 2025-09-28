@@ -5,12 +5,12 @@
 
 body {
     font-size: 14px;
-    color: #000000 !important; /* Pure black text */
+    color: #000000 !important;
 }
 
 .small-text {
     font-size: 50%;
-    color: #000000 !important; /* Make small text black too */
+    color: #000000 !important;
 }
 
 // Make all headings pure black
@@ -23,26 +23,40 @@ p, li, span, div {
   color: #000000 !important;
 }
 
-// Style for your profile photo
-.profile-photo {
-  width: 400px;
-  height: 400px;
-  border-radius: 15px;
-  object-fit: cover;
-  margin: 20px 0;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+// Target ALL images to make them larger - this will catch your photo
+.profile img,
+img[src*="chandra"],
+.profile-image,
+.author__avatar img,
+img {
+  width: 400px !important;
+  height: 400px !important;
+  border-radius: 15px !important;
+  object-fit: cover !important;
+  margin: 20px 0 !important;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1) !important;
 }
 
-// Make links dark blue but still distinguishable
+// Original profile photo class (keep this too)
+.profile-photo {
+  width: 400px !important;
+  height: 400px !important;
+  border-radius: 15px !important;
+  object-fit: cover !important;
+  margin: 20px 0 !important;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1) !important;
+}
+
+// Make links dark blue
 a {
-  color: #0000EE !important; /* Standard blue for links */
+  color: #0000EE !important;
 }
 
 a:hover {
-  color: #000080 !important; /* Darker blue on hover */
+  color: #000080 !important;
 }
 
-// Ensure code blocks and other elements are also dark
+// Ensure code blocks are dark
 code, pre {
   color: #000000 !important;
 }
