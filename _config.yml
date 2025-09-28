@@ -309,7 +309,14 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# Custom CSS
+sass:
+  sass_dir: _sass
+  style: compressed
 
+# Force custom styles
+plugins:
+  - jekyll-github-metadata
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
