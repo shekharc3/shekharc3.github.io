@@ -19,17 +19,12 @@ My research examines the political economy of development and institutional chan
 
 Publications in Progress
 ===
-▪ The Logic of Corruption in Government Bureaucracies. (Book project based on my dissertation). Under contract with *[Cambridge University Press](https://www.cambridge.org/)*. (Scheduled for publication in December 2025). <br>
+▪ The Logic of Corruption in Government Bureaucracies. (Book project based on my dissertation). Under contract with *[Cambridge University Press](https://www.cambridge.org/)*. (Scheduled for publication in May 2026). <br>
 
 Using extensive fieldwork in three of India’s major state bureaucracies and building on innovative strategies to measure corruption, this book sheds light on the long-standing puzzle of why corruption exists and persists in government bureaucracies. I argue that corruption in governments could be exclusively and exhaustively conceptualized as grand and petty corruption and that the former causes the latter. I show that these two kinds of corruption are organized around bureaucratic transfers and that corrupt exchanges at various levels are thickly embedded in their ongoing social and political relations. <br>
 
 Manuscripts in Preparation
 ===
-▪ Identifying the demands of justice in Indigenous groups facing environmental risks: The case of a climate change-induced forced migration of a Native American community in Louisiana. (With [Janelle Knox-Hayes](https://dusp.mit.edu/people/janelle-knox-hayes)) <br>
-
-Abstract <br>
-
-What are the demands of justice when Indigenous communities suffer serious environmental harms? We analyze environmental injustices in the climate change-induced forced migration of a Native American community of southeastern Louisiana in the United States. The article uses archival analysis, the lived experiences of the community members (including its Chief), and in-depth interviews of government stakeholders involved in the planning process led by the Department of Housing and Urban Development to safely relocate the Native members. The paper contends that rather than merely focusing on the fair distribution of environmental risks and benefits, the pursuit of justice should also be process-sensitive; meaningfully involve the risk-facing community; and respect its values, cultures, histories, traditions, knowledge systems, and sovereignty concerns. We argue that as the world confronts the reality of anthropogenic climate change, we must move beyond distributional equity to focus more on recognition claims of Indigenous peoples in order to design more equitable resilience policies. 
 
 ▪ Why Persistent Corruption? Evidence from a State Police Bureaucracy in India
 
